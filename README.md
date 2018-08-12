@@ -11,6 +11,7 @@ Popper v1.14.3
 fontawesome v5.0.13
 ```
 
+All the panels files are compiled thanks `webpack` in 2 files: "script.js" and "style.css"
 
 I hope you will have an interest to use it !
 
